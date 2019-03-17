@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1507442210 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/command parser.c
+	<stdio.h>
+
+1507457220 
+
+1507456097 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/commands.c
+	<stdio.h>
+
+1507215855 /media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/commands.h
+
+1507442210 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/envirnoment.c
+	<stdio.h>
+
+1507215905 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/file processing.c
+	<stdio.h>
+
+1507453620 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507214302 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/variables.c
+	"variables.h"
+
+1507217902 .h"
+
+1507214302 /media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/variables.h
+
+1507445810 source:e:\engineering\c++\lab1os\command parser.c
+	<stdio.h>
+
+1507445810 source:e:\engineering\c++\lab1os\envirnoment.c
+	<stdio.h>
+
+1507219505 source:e:\engineering\c++\lab1os\file processing.c
+	<stdio.h>
+
+1507457220 source:e:\engineering\c++\lab1os\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507217902 source:e:\engineering\c++\lab1os\variables.c
+	"variables.h"
+
+1507217902 e:\engineering\c++\lab1os\variables.h
+
+1507488862 source:e:\engineering\c++\lab1os\commands.c
+	<stdio.h>
+
+1507754328 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/command parser.c
+	<stdio.h>
+
+1507757308 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/envirnoment.c
+	<stdio.h>
+
+1507752069 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/file processing.c
+	<stdio.h>
+	<stdlib.h>
+
+1507762134 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+
+1507762246 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1507214302 /media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/variables.h
+
+1507753208 source:/media/wesamyakout/A2AAC294AAC2647F/Engineering/C++/Lab1OS/commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
